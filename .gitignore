@@ -1,0 +1,19 @@
+# Bibliotecas de terceiros (instaladas pela IDE do Arduino)
+libraries/
+
+# Virtualenv Python do script de teste
+.mbvenv/
+
+# Templates vazios da IDE
+sketch_jun20a/
+sketch_jun20b/
+
+# Fotos / screenshots
+*.jpg
+*.jpeg
+*.png
+
+# Artefatos de build
+*.hex
+*.elf
+build/
